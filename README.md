@@ -3,5 +3,4 @@ Edutecnicia is an AI-based Research &amp; Development organization primarily wor
 We will be sharing codes and learning materials on Python, MATLAB and Verilog domains here. Let's share knowledge!
 
 Connect with EDUTECNICIA for Projects, Internships and STEM Ambassabors Opportunities.
-EMail : edutecnicia@gmail.com
-WhatsApp : +91 9847641477
+E-Mail : edutecnicia@gmail.com ; WhatsApp : +91 9847641477
